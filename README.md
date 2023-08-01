@@ -6,6 +6,7 @@ This is a simple arithmetic web calculator, with some implementations of a scien
 
 
 **Technologies used in the program**
+
 **html**
 **css**
 **javascript**
