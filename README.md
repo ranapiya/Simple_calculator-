@@ -1,2 +1,2 @@
 # Simple_calculator-
-Simple calculator application
+simple web calculator
