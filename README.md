@@ -11,4 +11,5 @@ This is a simple arithmetic web calculator, with some implementations of a scien
     CSS3
     JavaScript
 
-https://github.com/ranapiya/Simple_calculator-/issues/1#issue-1831406207
+![image](https://github.com/ranapiya/Simple_calculator-/assets/127029448/870aa08e-b64a-4c3f-8965-a1d98fc9fbde)
+
